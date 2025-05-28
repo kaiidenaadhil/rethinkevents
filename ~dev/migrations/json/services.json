@@ -1,0 +1,11 @@
+{
+    "serviceId": "integer|primary_key|auto_increment",
+    "serviceTitle": "string|max:250",
+    "serviceCategory": "integer|foreign:service_categories:categoryId",
+    "serviceType": "enum|enum:Events,Printing,Interior,General Supply, Acoustic Solution",
+    "description": "string|max:1100",
+    "serviceImage": "file|file:jpg,png",
+    "serviceCreatedAt": "timestamp",
+    "serviceUpdatedAt": "timestamp",
+    "serviceIdentify": "string|max:50"
+}

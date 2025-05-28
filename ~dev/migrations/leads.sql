@@ -1,0 +1,12 @@
+CREATE TABLE `leads` (
+`leadId` INT  PRIMARY KEY NOT NULL AUTO_INCREMENT,
+`clientName` VARCHAR(250)  NULL,
+`email` VARCHAR(250)  NULL,
+`phone` VARCHAR(20)  NULL,
+`notes` VARCHAR(1000)  NULL,
+`interestedIn` ENUM('Events', 'Printing', 'Interior', 'General')  NULL,
+`status` ENUM('new', '')  NULL,
+`leadCreatedAt` TIMESTAMP  NOT NULL DEFAULT CURRENT_TIMESTAMP,
+`leadUpdatedAt` TIMESTAMP  NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+`leadIdentify` VARCHAR(50)  NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

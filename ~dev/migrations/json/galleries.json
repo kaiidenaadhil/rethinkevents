@@ -1,0 +1,9 @@
+{
+    "galleryId": "integer|primary_key|auto_increment",
+    "galleryMedia": "file|file:*|nullable",
+    "caption": "string|max:255|nullable",
+    "eventId": "integer|foreign:events:eventId",
+    "galleryCreatedAt": "timestamp",
+    "galleryUpdatedAt": "timestamp",
+    "galleryIdentify": "string|max:50"
+}

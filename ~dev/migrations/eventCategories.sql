@@ -1,0 +1,10 @@
+CREATE TABLE `eventCategories` (
+`eventCategoryId` INT  PRIMARY KEY NOT NULL AUTO_INCREMENT,
+`eventCategoryName` VARCHAR(255)  NULL,
+`eventCategoryURI` VARCHAR(255)  NULL,
+`eventCategoryFeatureImg` VARCHAR(255)  NOT NULL,
+`evenCategoryTags` VARCHAR(255)  NULL,
+`eventCategoryCreatedAt` TIMESTAMP  NOT NULL DEFAULT CURRENT_TIMESTAMP,
+`eventCategoryUpdatedAt` TIMESTAMP  NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+`eventCategoryIdentify` VARCHAR(50)  NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

@@ -1,0 +1,10 @@
+{
+    "eventCategoryId": "integer|primary_key|auto_increment",
+    "eventCategoryName": "string|max:255|nullable",
+    "eventCategoryURI": "string|max:255|nullable",
+    "eventCategoryFeatureImg": "file|file:*",
+    "evenCategoryTags": "string|max:255|nullable",
+    "eventCategoryCreatedAt": "timestamp",
+    "eventCategoryUpdatedAt": "timestamp",
+    "eventCategoryIdentify": "string|max:50"
+}

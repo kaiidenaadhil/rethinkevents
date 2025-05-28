@@ -1,0 +1,12 @@
+{
+    "eventId": "integer|primary_key|auto_increment",
+    "eventTitle": "string|max:255",
+    "eventDescription": "string|max:500",
+    "eventDate": "timestamp|default:CURRENT_TIMESTAMP",
+    "location": "string|max:255",
+    "organisedBy": "string|max:255",
+    "eventFeatureImage": "file|file:jpg,png,gif,mp4",
+    "eventCreatedAt": "timestamp",
+    "eventUpdatedAt": "timestamp",
+    "eventIdentify": "string|max:50"
+}

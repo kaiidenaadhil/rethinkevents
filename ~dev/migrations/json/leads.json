@@ -1,0 +1,12 @@
+{
+    "leadId": "integer|primary_key|auto_increment",
+    "clientName": "string|max:250|nullable",
+    "email": "string|max:250|nullable",
+    "phone": "string|max:20|nullable",
+    "notes": "string|max:1000|nullable",
+    "interestedIn": "enum|enum:Events,Printing,Interior,General Supply, Acoustic Solution|nullable",
+    "status": "enum|enum:new, contacted, converted, lost|nullable",
+    "leadCreatedAt": "timestamp",
+    "leadUpdatedAt": "timestamp",
+    "leadIdentify": "string|max:50"
+}

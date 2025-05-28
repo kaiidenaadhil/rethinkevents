@@ -1,0 +1,10 @@
+{
+    "campaignId": "integer|primary_key|auto_increment",
+    "campaignTitle": "string|max:255|nullable",
+    "campaignSlogan": "string|max:255|nullable",
+    "campaignMedia": "file|file:*|nullable",
+    "campaignAction": "string|max:255|nullable",
+    "campaignCreatedAt": "timestamp",
+    "campaignUpdatedAt": "timestamp",
+    "campaignIdentify": "string|max:50"
+}

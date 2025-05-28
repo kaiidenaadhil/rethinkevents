@@ -1,0 +1,14 @@
+{
+    "id": "integer|primary_key|auto_increment",
+    "pageSlug": "string|max:255|nullable",
+    "metaTitle": "string|max:255|nullable",
+    "metaDescription": "string|max:500|nullable",
+    "metaKeywords": "string|max:500|nullable",
+    "imageFeature": "file|file:jpg,png,jpeg|nullable",
+    "imageAlt": "string|max:255|nullable",
+    "canonicalURL": "string|max:255|nullable",
+    "metaAuthor": "string|max:255|nullable",
+    "meta_seoCreatedAt": "timestamp",
+    "meta_seoUpdatedAt": "timestamp",
+    "meta_seoIdentify": "string|max:50"
+}

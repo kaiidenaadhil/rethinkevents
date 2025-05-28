@@ -1,0 +1,1879 @@
+[2025-05-24 12:07:36]
+QUERY: INSERT INTO `event_gallery` (`eventId`, `caption`, `event_galleryIdentify`, `galleryMedia`) VALUES (:eventId, :caption, :event_galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [eventId] => 2
+    [caption] => Sonali Event
+    [event_galleryIdentify] => 4lecIepEBAwGbkRs
+    [galleryMedia] => 458a093b06ec462ccdf5ee7a.jpg
+)
+
+
+[2025-05-24 12:07:40]
+QUERY: INSERT INTO `event_gallery` (`eventId`, `caption`, `event_galleryIdentify`, `galleryMedia`) VALUES (:eventId, :caption, :event_galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [eventId] => 2
+    [caption] => Sonali Event
+    [event_galleryIdentify] => ias4CvVUrMwfnckv
+    [galleryMedia] => 9336ece581ef2335e6bf634d.jpg
+)
+
+
+[2025-05-24 12:09:35]
+QUERY: INSERT INTO `event_gallery` (`eventId`, `caption`, `event_galleryIdentify`, `galleryMedia`) VALUES (:eventId, :caption, :event_galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [eventId] => 2
+    [caption] => Sonali Event
+    [event_galleryIdentify] => T5uCKhWXzOrKvi8z
+    [galleryMedia] => 49b0741218396e00518c420f.jpg
+)
+
+
+[2025-05-24 12:38:14]
+QUERY: INSERT INTO `galleries` (`eventId`, `caption`, `galleryIdentify`, `galleryMedia`) VALUES (:eventId, :caption, :galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [eventId] => 2
+    [caption] => Sonali Event
+    [galleryIdentify] => DBB2BV4OaVwRHFNG
+    [galleryMedia] => 3397605eb63d767444235f27.jpg
+)
+
+
+[2025-05-24 12:38:38]
+QUERY: INSERT INTO `galleries` (`eventId`, `caption`, `galleryIdentify`, `galleryMedia`) VALUES (:eventId, :caption, :galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [eventId] => 4
+    [caption] => Sonali Event
+    [galleryIdentify] => lcOL6aDIKyUJ8tdR
+    [galleryMedia] => 7f9e6d5f17f382f62023734b.jpg
+)
+
+
+[2025-05-24 12:39:02]
+QUERY: INSERT INTO `galleries` (`eventId`, `caption`, `galleryIdentify`, `galleryMedia`) VALUES (:eventId, :caption, :galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [eventId] => 3
+    [caption] => Sonali Event
+    [galleryIdentify] => 0iFYI4utq5SIcIaZ
+    [galleryMedia] => cdade27df248e5dcb2f622bc.jpg
+)
+
+
+[2025-05-24 12:39:23]
+QUERY: INSERT INTO `galleries` (`eventId`, `caption`, `galleryIdentify`, `galleryMedia`) VALUES (:eventId, :caption, :galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [eventId] => 4
+    [caption] => Sonali Event
+    [galleryIdentify] => QUB8OVWWJKZbByVj
+    [galleryMedia] => 6b9538c0a0e15d9d32b8ee65.jpg
+)
+
+
+[2025-05-24 12:39:35]
+QUERY: INSERT INTO `galleries` (`eventId`, `caption`, `galleryIdentify`, `galleryMedia`) VALUES (:eventId, :caption, :galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [eventId] => 5
+    [caption] => Sonali Event
+    [galleryIdentify] => jOnRsJ8SBkd4zdS3
+    [galleryMedia] => ab354db8c7e83ac356403798.jpg
+)
+
+
+[2025-05-24 12:40:06]
+QUERY: INSERT INTO `galleries` (`eventId`, `caption`, `galleryIdentify`, `galleryMedia`) VALUES (:eventId, :caption, :galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [eventId] => 4
+    [caption] => Sonali Event
+    [galleryIdentify] => V4si5rm9IPSUr5fU
+    [galleryMedia] => 142bec59e43448ec52ec84b6.jpg
+)
+
+
+[2025-05-24 12:40:17]
+QUERY: INSERT INTO `galleries` (`eventId`, `caption`, `galleryIdentify`, `galleryMedia`) VALUES (:eventId, :caption, :galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [eventId] => 5
+    [caption] => Sonali Event
+    [galleryIdentify] => U2pLdt2x4jumeTsw
+    [galleryMedia] => 6d24c69231c5634b397a5ff1.jpg
+)
+
+
+[2025-05-24 12:40:36]
+QUERY: INSERT INTO `galleries` (`eventId`, `caption`, `galleryIdentify`, `galleryMedia`) VALUES (:eventId, :caption, :galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [eventId] => 4
+    [caption] => Sonali Event
+    [galleryIdentify] => P2fwODDmOLSSIYYI
+    [galleryMedia] => b1116e98151a1ebdaf8d5a4c.jpg
+)
+
+
+[2025-05-26 07:53:27]
+QUERY: INSERT INTO `campaign` (`campaignTitle`, `campaignSlogan`, `campaignAction`, `campaignIdentify`, `campaignMedia`) VALUES (:campaignTitle, :campaignSlogan, :campaignAction, :campaignIdentify, :campaignMedia)
+BINDINGS: Array
+(
+    [campaignTitle] => 
+    [campaignSlogan] => 
+    [campaignAction] => 
+    [campaignIdentify] => 49PEAx5HNv7hong1
+    [campaignMedia] => adde28e215fdda118778bf3d.pdf
+)
+
+
+[2025-05-26 07:53:38]
+QUERY: DELETE FROM `campaign` WHERE `campaignIdentify` = :campaignIdentify_0
+BINDINGS: Array
+(
+    [campaignIdentify_0] => 49PEAx5HNv7hong1
+)
+
+
+[2025-05-26 07:56:01]
+QUERY: INSERT INTO `campaign` (`campaignTitle`, `campaignSlogan`, `campaignAction`, `campaignIdentify`, `campaignMedia`) VALUES (:campaignTitle, :campaignSlogan, :campaignAction, :campaignIdentify, :campaignMedia)
+BINDINGS: Array
+(
+    [campaignTitle] => 
+    [campaignSlogan] => 
+    [campaignAction] => 
+    [campaignIdentify] => seA7IAAcv3yW0dTf
+    [campaignMedia] => 2a7737cde881f399ae53554b.mp4
+)
+
+
+[2025-05-27 08:30:45]
+QUERY: INSERT INTO `leads` (`clientName`, `email`, `phone`, `notes`, `leadIdentify`) VALUES (:clientName, :email, :phone, :notes, :leadIdentify)
+BINDINGS: Array
+(
+    [clientName] => Md. Aminul Islam
+    [email] => mdahadaminul@gmail.com
+    [phone] => 01521257123
+    [notes] => Message for me:
+    [leadIdentify] => DPRbYqcDr7W1HPtT
+)
+
+
+[2025-05-27 09:57:42]
+QUERY: INSERT INTO `leads` (`clientName`, `email`, `phone`, `notes`, `leadIdentify`) VALUES (:clientName, :email, :phone, :notes, :leadIdentify)
+BINDINGS: Array
+(
+    [clientName] => AAA
+    [email] => mdahadminul@gmail.com
+    [phone] => 01521257123
+    [notes] => fooo
+    [leadIdentify] => kN2OfC1eNDagWbjJ
+)
+
+
+[2025-05-27 09:58:11]
+QUERY: INSERT INTO `leads` (`clientName`, `email`, `phone`, `notes`, `leadIdentify`) VALUES (:clientName, :email, :phone, :notes, :leadIdentify)
+BINDINGS: Array
+(
+    [clientName] => AAA
+    [email] => mdahadminul@gmail.com
+    [phone] => 01521257123
+    [notes] => fooo
+    [leadIdentify] => ZZKwSN3cdlagxMlF
+)
+
+
+[2025-05-27 09:58:19]
+QUERY: INSERT INTO `leads` (`clientName`, `email`, `phone`, `notes`, `leadIdentify`) VALUES (:clientName, :email, :phone, :notes, :leadIdentify)
+BINDINGS: Array
+(
+    [clientName] => AAA
+    [email] => mdahadminul@gmail.com
+    [phone] => 01521257123
+    [notes] => ggg
+    [leadIdentify] => Bne60zKwSGTY3l8r
+)
+
+
+[2025-05-27 09:59:17]
+QUERY: DELETE FROM `leads` WHERE `leadIdentify` = :leadIdentify_0
+BINDINGS: Array
+(
+    [leadIdentify_0] => DPRbYqcDr7W1HPtT
+)
+
+
+[2025-05-27 09:59:19]
+QUERY: DELETE FROM `leads` WHERE `leadIdentify` = :leadIdentify_0
+BINDINGS: Array
+(
+    [leadIdentify_0] => kN2OfC1eNDagWbjJ
+)
+
+
+[2025-05-27 09:59:21]
+QUERY: DELETE FROM `leads` WHERE `leadIdentify` = :leadIdentify_0
+BINDINGS: Array
+(
+    [leadIdentify_0] => ZZKwSN3cdlagxMlF
+)
+
+
+[2025-05-27 09:59:24]
+QUERY: DELETE FROM `leads` WHERE `leadIdentify` = :leadIdentify_0
+BINDINGS: Array
+(
+    [leadIdentify_0] => Bne60zKwSGTY3l8r
+)
+
+
+[2025-05-27 10:02:48]
+QUERY: INSERT INTO `leads` (`clientName`, `email`, `phone`, `notes`, `leadIdentify`) VALUES (:clientName, :email, :phone, :notes, :leadIdentify)
+BINDINGS: Array
+(
+    [clientName] => AAA
+    [email] => mdahadminul@gmail.com
+    [phone] => 01521257123
+    [notes] => ggg
+    [leadIdentify] => 78tuWvIdSGRnu0tY
+)
+
+
+[2025-05-27 10:07:36]
+QUERY: INSERT INTO `leads` (`clientName`, `email`, `phone`, `notes`, `leadIdentify`) VALUES (:clientName, :email, :phone, :notes, :leadIdentify)
+BINDINGS: Array
+(
+    [clientName] => AAA
+    [email] => mdahadminul@gmail.com
+    [phone] => 01521257123
+    [notes] => eee
+    [leadIdentify] => ccIMZSO8xcyUvFO2
+)
+
+
+[2025-05-27 10:08:58]
+QUERY: INSERT INTO `leads` (`clientName`, `email`, `phone`, `notes`, `leadIdentify`) VALUES (:clientName, :email, :phone, :notes, :leadIdentify)
+BINDINGS: Array
+(
+    [clientName] => AAA
+    [email] => mdahadminul@gmail.com
+    [phone] => 01521257123
+    [notes] => eee
+    [leadIdentify] => Zr5cTSR5CWom14Ps
+)
+
+
+[2025-05-27 10:11:30]
+QUERY: INSERT INTO `leads` (`clientName`, `email`, `phone`, `notes`, `leadIdentify`) VALUES (:clientName, :email, :phone, :notes, :leadIdentify)
+BINDINGS: Array
+(
+    [clientName] => AAA
+    [email] => mdahadminul@gmail.com
+    [phone] => 01521257123
+    [notes] => Hello there
+    [leadIdentify] => doJJGyrVRVwol8HU
+)
+
+
+[2025-05-27 10:14:17]
+QUERY: INSERT INTO `leads` (`clientName`, `email`, `phone`, `interestedIn`, `notes`, `leadIdentify`) VALUES (:clientName, :email, :phone, :interestedIn, :notes, :leadIdentify)
+BINDINGS: Array
+(
+    [clientName] => AAA
+    [email] => mdahadminul@gmail.com
+    [phone] => 01521257123
+    [interestedIn] => Interior
+    [notes] => tttt
+    [leadIdentify] => kslWn48q7jg8aJYZ
+)
+
+
+[2025-05-27 10:14:34]
+QUERY: DELETE FROM `leads` WHERE `leadIdentify` = :leadIdentify_0
+BINDINGS: Array
+(
+    [leadIdentify_0] => 78tuWvIdSGRnu0tY
+)
+
+
+[2025-05-27 10:14:36]
+QUERY: DELETE FROM `leads` WHERE `leadIdentify` = :leadIdentify_0
+BINDINGS: Array
+(
+    [leadIdentify_0] => ccIMZSO8xcyUvFO2
+)
+
+
+[2025-05-27 10:14:38]
+QUERY: DELETE FROM `leads` WHERE `leadIdentify` = :leadIdentify_0
+BINDINGS: Array
+(
+    [leadIdentify_0] => Zr5cTSR5CWom14Ps
+)
+
+
+[2025-05-27 10:14:39]
+QUERY: DELETE FROM `leads` WHERE `leadIdentify` = :leadIdentify_0
+BINDINGS: Array
+(
+    [leadIdentify_0] => doJJGyrVRVwol8HU
+)
+
+
+[2025-05-27 10:14:47]
+QUERY: DELETE FROM `leads` WHERE `leadIdentify` = :leadIdentify_0
+BINDINGS: Array
+(
+    [leadIdentify_0] => kslWn48q7jg8aJYZ
+)
+
+
+[2025-05-27 15:43:42]
+QUERY: UPDATE `campaign` SET `campaignTitle` = :campaignTitle, `campaignSlogan` = :campaignSlogan, `campaignAction` = :campaignAction, `campaignMedia` = :campaignMedia WHERE `campaignIdentify` = :campaignIdentify_0
+BINDINGS: Array
+(
+    [campaignIdentify_0] => xoBGHJTpsInIGccb
+    [campaignTitle] => Experience the Power of Events
+    [campaignSlogan] => Crafting unforgettable moments with creativity and innovation.
+    [campaignAction] => https://rethinkevents.com.bd/contact-us/
+    [campaignMedia] => b8b64b5c7db3177fd4629f01.mp4
+)
+
+
+[2025-05-27 16:01:36]
+QUERY: INSERT INTO `events` (`eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventIdentify`) VALUES (:eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventIdentify)
+BINDINGS: Array
+(
+    [eventTitle] => Event 1
+    [eventDescription] => event 1 desc
+    [eventDate] => 2025-05-31T22:06
+    [location] => dhaka
+    [organisedBy] => rethink
+    [eventIdentify] => OJhDc6NXWqJOx2ZK
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 1
+    [eventTitle] => Event 1
+    [eventDescription] => event 1 desc
+    [eventDate] => 2025-05-31 22:06:00
+    [location] => dhaka
+    [organisedBy] => rethink
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 22:01:36
+    [eventUpdatedAt] => 2025-05-27 22:01:36
+    [eventIdentify] => OJhDc6NXWqJOx2ZK
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 2
+    [eventTitle] => 12th BI-Annual Meeting of the Committee of Senior Officials (CSO)
+    [eventDescription] => 12th bi-annual meeting of the committee of senior officials (cso)
+    [eventDate] => 2025-05-27 16:03:29
+    [location] => Hotel Royal Tulip, Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => d2b4cd041481488d
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 3
+    [eventTitle] => Visit Bangladesh 2022
+    [eventDescription] => visit bangladesh 2022
+    [eventDate] => 2022-01-01
+    [location] => Dhaka to Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 371f99030df24a9b
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 4
+    [eventTitle] => Visit Bangladesh 2022
+    [eventDescription] => visit bangladesh 2022
+    [eventDate] => 2022-01-01
+    [location] => Dhaka to Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => a46131aad0aa42f3
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 5
+    [eventTitle] => 22nd Meeting of the IORA Council of Ministers (COM) & 24th Meeting of the IORA Committee of Senior Officials (CSO)
+    [eventDescription] => 22nd meeting of the iora council of ministers (com) & 24th meeting of the iora committee of senior officials (cso)
+    [eventDate] => 2025-05-27 16:03:29
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => d5c171ec2faf4ca7
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 6
+    [eventTitle] => Ninth Intergovernmental Session of the IOC Regional Committee for the Central Indian Ocean (IOCINDIO-IX)
+    [eventDescription] => ninth intergovernmental session of the ioc regional committee for the central indian ocean (iocindio-ix)
+    [eventDate] => 2025-05-27 16:03:29
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 757e407fb7e54039
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 7
+    [eventTitle] => Palm Leaf Scroll Painting Revival Exhibition
+    [eventDescription] => palm leaf scroll painting revival exhibition
+    [eventDate] => 2025-05-27 16:03:29
+    [location] => Bangladesh National Museum
+    [organisedBy] => Shaheed Colonel Jamil Foundation
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => e14a2b8bc81841b2
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 8
+    [eventTitle] => Committee of Senior Officials (CSO) IORA Meeting
+    [eventDescription] => committee of senior officials (cso) iora meeting
+    [eventDate] => 2025-05-27 16:03:29
+    [location] => Hotel Grand Sylhet, Sylhet
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 5d4077ebf7b04271
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 9
+    [eventTitle] => CICA Workshop On Ecosystem Restoration in the context of climate and other Vulnerability
+    [eventDescription] => cica workshop on ecosystem restoration in the context of climate and other vulnerability
+    [eventDate] => 2025-05-27 16:03:29
+    [location] => Department of Environment, Agargaon, Dhaka
+    [organisedBy] => Ministry of Environment, Forest and Climate Change
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 563647022820483c
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 10
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 2019-04-14
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 26a37311cae84085
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 11
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 2019-04-14
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 84d9cedc5c614a0c
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 12
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 2019-04-14
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => aafd54efc8284ab4
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 13
+    [eventTitle] => Bangladesh Agricultural Investment Forum 2023
+    [eventDescription] => bangladesh agricultural investment forum 2023
+    [eventDate] => 2023-01-01
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 083c51f1236b4d5e
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 14
+    [eventTitle] => Bangladesh Agricultural Investment Forum 2023
+    [eventDescription] => bangladesh agricultural investment forum 2023
+    [eventDate] => 2023-01-01
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 194eee5e20d745c4
+)
+
+
+[2025-05-27 16:03:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 15
+    [eventTitle] => Boshakhi Event 1431
+    [eventDescription] => boshakhi event 1431
+    [eventDate] => 2024-04-14
+    [location] => UN Office, Banani, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 9bdbfa12c0bf4dc3
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 1
+    [eventTitle] => Event 1
+    [eventDescription] => event 1 desc
+    [eventDate] => 2025-05-31 22:06:00
+    [location] => dhaka
+    [organisedBy] => rethink
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 22:01:36
+    [eventUpdatedAt] => 2025-05-27 22:01:36
+    [eventIdentify] => OJhDc6NXWqJOx2ZK
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 2
+    [eventTitle] => 12th BI-Annual Meeting of the Committee of Senior Officials (CSO)
+    [eventDescription] => 12th bi-annual meeting of the committee of senior officials (cso)
+    [eventDate] => 2025-05-27 16:03:29
+    [location] => Hotel Royal Tulip, Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => d2b4cd041481488d
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 3
+    [eventTitle] => Visit Bangladesh 2022
+    [eventDescription] => visit bangladesh 2022
+    [eventDate] => 2022-01-01
+    [location] => Dhaka to Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 371f99030df24a9b
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 4
+    [eventTitle] => Visit Bangladesh 2022
+    [eventDescription] => visit bangladesh 2022
+    [eventDate] => 2022-01-01
+    [location] => Dhaka to Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => a46131aad0aa42f3
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 5
+    [eventTitle] => 22nd Meeting of the IORA Council of Ministers (COM) & 24th Meeting of the IORA Committee of Senior Officials (CSO)
+    [eventDescription] => 22nd meeting of the iora council of ministers (com) & 24th meeting of the iora committee of senior officials (cso)
+    [eventDate] => 2025-05-27 16:03:29
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => d5c171ec2faf4ca7
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 6
+    [eventTitle] => Ninth Intergovernmental Session of the IOC Regional Committee for the Central Indian Ocean (IOCINDIO-IX)
+    [eventDescription] => ninth intergovernmental session of the ioc regional committee for the central indian ocean (iocindio-ix)
+    [eventDate] => 2025-05-27 16:03:29
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 757e407fb7e54039
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 7
+    [eventTitle] => Palm Leaf Scroll Painting Revival Exhibition
+    [eventDescription] => palm leaf scroll painting revival exhibition
+    [eventDate] => 2025-05-27 16:03:29
+    [location] => Bangladesh National Museum
+    [organisedBy] => Shaheed Colonel Jamil Foundation
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => e14a2b8bc81841b2
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 8
+    [eventTitle] => Committee of Senior Officials (CSO) IORA Meeting
+    [eventDescription] => committee of senior officials (cso) iora meeting
+    [eventDate] => 2025-05-27 16:03:29
+    [location] => Hotel Grand Sylhet, Sylhet
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 5d4077ebf7b04271
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 9
+    [eventTitle] => CICA Workshop On Ecosystem Restoration in the context of climate and other Vulnerability
+    [eventDescription] => cica workshop on ecosystem restoration in the context of climate and other vulnerability
+    [eventDate] => 2025-05-27 16:03:29
+    [location] => Department of Environment, Agargaon, Dhaka
+    [organisedBy] => Ministry of Environment, Forest and Climate Change
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 563647022820483c
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 10
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 2019-04-14
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 26a37311cae84085
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 11
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 2019-04-14
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 84d9cedc5c614a0c
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 12
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 2019-04-14
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => aafd54efc8284ab4
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 13
+    [eventTitle] => Bangladesh Agricultural Investment Forum 2023
+    [eventDescription] => bangladesh agricultural investment forum 2023
+    [eventDate] => 2023-01-01
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 083c51f1236b4d5e
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 14
+    [eventTitle] => Bangladesh Agricultural Investment Forum 2023
+    [eventDescription] => bangladesh agricultural investment forum 2023
+    [eventDate] => 2023-01-01
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 194eee5e20d745c4
+)
+
+
+[2025-05-27 16:03:58]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 15
+    [eventTitle] => Boshakhi Event 1431
+    [eventDescription] => boshakhi event 1431
+    [eventDate] => 2024-04-14
+    [location] => UN Office, Banani, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 2025-05-27 16:03:29
+    [eventUpdatedAt] => 2025-05-27 16:03:29
+    [eventIdentify] => 9bdbfa12c0bf4dc3
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 1
+    [eventTitle] => Event 1
+    [eventDescription] => event 1 desc
+    [eventDate] => 5/31/2025 22:06
+    [location] => dhaka
+    [organisedBy] => rethink
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => OJhDc6NXWqJOx2ZK
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 2
+    [eventTitle] => 12th BI-Annual Meeting of the Committee of Senior Officials (CSO)
+    [eventDescription] => 12th bi-annual meeting of the committee of senior officials (cso)
+    [eventDate] => 5/27/2025 16:03
+    [location] => Hotel Royal Tulip, Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => d2b4cd041481488d
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 3
+    [eventTitle] => Visit Bangladesh 2022
+    [eventDescription] => visit bangladesh 2022
+    [eventDate] => 1/1/2022
+    [location] => Dhaka to Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 371f99030df24a9b
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 4
+    [eventTitle] => Visit Bangladesh 2022
+    [eventDescription] => visit bangladesh 2022
+    [eventDate] => 1/1/2022
+    [location] => Dhaka to Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => a46131aad0aa42f3
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 5
+    [eventTitle] => 22nd Meeting of the IORA Council of Ministers (COM) & 24th Meeting of the IORA Committee of Senior Officials (CSO)
+    [eventDescription] => 22nd meeting of the iora council of ministers (com) & 24th meeting of the iora committee of senior officials (cso)
+    [eventDate] => 5/27/2025 16:03
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => d5c171ec2faf4ca7
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 6
+    [eventTitle] => Ninth Intergovernmental Session of the IOC Regional Committee for the Central Indian Ocean (IOCINDIO-IX)
+    [eventDescription] => ninth intergovernmental session of the ioc regional committee for the central indian ocean (iocindio-ix)
+    [eventDate] => 5/27/2025 16:03
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 757e407fb7e54039
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 7
+    [eventTitle] => Palm Leaf Scroll Painting Revival Exhibition
+    [eventDescription] => palm leaf scroll painting revival exhibition
+    [eventDate] => 5/27/2025 16:03
+    [location] => Bangladesh National Museum
+    [organisedBy] => Shaheed Colonel Jamil Foundation
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => e14a2b8bc81841b2
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 8
+    [eventTitle] => Committee of Senior Officials (CSO) IORA Meeting
+    [eventDescription] => committee of senior officials (cso) iora meeting
+    [eventDate] => 5/27/2025 16:03
+    [location] => Hotel Grand Sylhet, Sylhet
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 5d4077ebf7b04271
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 9
+    [eventTitle] => CICA Workshop On Ecosystem Restoration in the context of climate and other Vulnerability
+    [eventDescription] => cica workshop on ecosystem restoration in the context of climate and other vulnerability
+    [eventDate] => 5/27/2025 16:03
+    [location] => Department of Environment, Agargaon, Dhaka
+    [organisedBy] => Ministry of Environment, Forest and Climate Change
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 563647022820483c
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 10
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 4/14/2019
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 26a37311cae84085
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 11
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 4/14/2019
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 84d9cedc5c614a0c
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 12
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 4/14/2019
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => aafd54efc8284ab4
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 13
+    [eventTitle] => Bangladesh Agricultural Investment Forum 2023
+    [eventDescription] => bangladesh agricultural investment forum 2023
+    [eventDate] => 1/1/2023
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 083c51f1236b4d5e
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 14
+    [eventTitle] => Bangladesh Agricultural Investment Forum 2023
+    [eventDescription] => bangladesh agricultural investment forum 2023
+    [eventDate] => 1/1/2023
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 194eee5e20d745c4
+)
+
+
+[2025-05-27 16:04:59]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 15
+    [eventTitle] => Boshakhi Event 1431
+    [eventDescription] => boshakhi event 1431
+    [eventDate] => 4/14/2024
+    [location] => UN Office, Banani, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 9bdbfa12c0bf4dc3
+)
+
+
+[2025-05-27 16:05:16]
+QUERY: DELETE FROM `events` WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => OJhDc6NXWqJOx2ZK
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 1
+    [eventTitle] => Event 1
+    [eventDescription] => event 1 desc
+    [eventDate] => 5/31/2025 22:06
+    [location] => dhaka
+    [organisedBy] => rethink
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => OJhDc6NXWqJOx2ZK
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 2
+    [eventTitle] => 12th BI-Annual Meeting of the Committee of Senior Officials (CSO)
+    [eventDescription] => 12th bi-annual meeting of the committee of senior officials (cso)
+    [eventDate] => 5/27/2025 16:03
+    [location] => Hotel Royal Tulip, Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => d2b4cd041481488d
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 3
+    [eventTitle] => Visit Bangladesh 2022
+    [eventDescription] => visit bangladesh 2022
+    [eventDate] => 1/1/2022
+    [location] => Dhaka to Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 371f99030df24a9b
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 4
+    [eventTitle] => Visit Bangladesh 2022
+    [eventDescription] => visit bangladesh 2022
+    [eventDate] => 1/1/2022
+    [location] => Dhaka to Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => a46131aad0aa42f3
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 5
+    [eventTitle] => 22nd Meeting of the IORA Council of Ministers (COM) & 24th Meeting of the IORA Committee of Senior Officials (CSO)
+    [eventDescription] => 22nd meeting of the iora council of ministers (com) & 24th meeting of the iora committee of senior officials (cso)
+    [eventDate] => 5/27/2025 16:03
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => d5c171ec2faf4ca7
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 6
+    [eventTitle] => Ninth Intergovernmental Session of the IOC Regional Committee for the Central Indian Ocean (IOCINDIO-IX)
+    [eventDescription] => ninth intergovernmental session of the ioc regional committee for the central indian ocean (iocindio-ix)
+    [eventDate] => 5/27/2025 16:03
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 757e407fb7e54039
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 7
+    [eventTitle] => Palm Leaf Scroll Painting Revival Exhibition
+    [eventDescription] => palm leaf scroll painting revival exhibition
+    [eventDate] => 5/27/2025 16:03
+    [location] => Bangladesh National Museum
+    [organisedBy] => Shaheed Colonel Jamil Foundation
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => e14a2b8bc81841b2
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 8
+    [eventTitle] => Committee of Senior Officials (CSO) IORA Meeting
+    [eventDescription] => committee of senior officials (cso) iora meeting
+    [eventDate] => 5/27/2025 16:03
+    [location] => Hotel Grand Sylhet, Sylhet
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 5d4077ebf7b04271
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 9
+    [eventTitle] => CICA Workshop On Ecosystem Restoration in the context of climate and other Vulnerability
+    [eventDescription] => cica workshop on ecosystem restoration in the context of climate and other vulnerability
+    [eventDate] => 5/27/2025 16:03
+    [location] => Department of Environment, Agargaon, Dhaka
+    [organisedBy] => Ministry of Environment, Forest and Climate Change
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 563647022820483c
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 10
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 4/14/2019
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 26a37311cae84085
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 11
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 4/14/2019
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 84d9cedc5c614a0c
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 12
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 4/14/2019
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => aafd54efc8284ab4
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 13
+    [eventTitle] => Bangladesh Agricultural Investment Forum 2023
+    [eventDescription] => bangladesh agricultural investment forum 2023
+    [eventDate] => 1/1/2023
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 083c51f1236b4d5e
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 14
+    [eventTitle] => Bangladesh Agricultural Investment Forum 2023
+    [eventDescription] => bangladesh agricultural investment forum 2023
+    [eventDate] => 1/1/2023
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 194eee5e20d745c4
+)
+
+
+[2025-05-27 16:05:24]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 15
+    [eventTitle] => Boshakhi Event 1431
+    [eventDescription] => boshakhi event 1431
+    [eventDate] => 4/14/2024
+    [location] => UN Office, Banani, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 9bdbfa12c0bf4dc3
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 1
+    [eventTitle] => Event 1
+    [eventDescription] => event 1 desc
+    [eventDate] => 5/31/2025 22:06
+    [location] => dhaka
+    [organisedBy] => rethink
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => OJhDc6NXWqJOx2ZK
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 2
+    [eventTitle] => 12th BI-Annual Meeting of the Committee of Senior Officials (CSO)
+    [eventDescription] => 12th bi-annual meeting of the committee of senior officials (cso)
+    [eventDate] => 5/27/2025 16:03
+    [location] => Hotel Royal Tulip, Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => d2b4cd041481488d
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 3
+    [eventTitle] => Visit Bangladesh 2022
+    [eventDescription] => visit bangladesh 2022
+    [eventDate] => 1/1/2022
+    [location] => Dhaka to Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 371f99030df24a9b
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 4
+    [eventTitle] => Visit Bangladesh 2022
+    [eventDescription] => visit bangladesh 2022
+    [eventDate] => 1/1/2022
+    [location] => Dhaka to Cox's Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => a46131aad0aa42f3
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 5
+    [eventTitle] => 22nd Meeting of the IORA Council of Ministers (COM) & 24th Meeting of the IORA Committee of Senior Officials (CSO)
+    [eventDescription] => 22nd meeting of the iora council of ministers (com) & 24th meeting of the iora committee of senior officials (cso)
+    [eventDate] => 5/27/2025 16:03
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => d5c171ec2faf4ca7
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 6
+    [eventTitle] => Ninth Intergovernmental Session of the IOC Regional Committee for the Central Indian Ocean (IOCINDIO-IX)
+    [eventDescription] => ninth intergovernmental session of the ioc regional committee for the central indian ocean (iocindio-ix)
+    [eventDate] => 5/27/2025 16:03
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 757e407fb7e54039
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 7
+    [eventTitle] => Palm Leaf Scroll Painting Revival Exhibition
+    [eventDescription] => palm leaf scroll painting revival exhibition
+    [eventDate] => 5/27/2025 16:03
+    [location] => Bangladesh National Museum
+    [organisedBy] => Shaheed Colonel Jamil Foundation
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => e14a2b8bc81841b2
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 8
+    [eventTitle] => Committee of Senior Officials (CSO) IORA Meeting
+    [eventDescription] => committee of senior officials (cso) iora meeting
+    [eventDate] => 5/27/2025 16:03
+    [location] => Hotel Grand Sylhet, Sylhet
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 5d4077ebf7b04271
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 9
+    [eventTitle] => CICA Workshop On Ecosystem Restoration in the context of climate and other Vulnerability
+    [eventDescription] => cica workshop on ecosystem restoration in the context of climate and other vulnerability
+    [eventDate] => 5/27/2025 16:03
+    [location] => Department of Environment, Agargaon, Dhaka
+    [organisedBy] => Ministry of Environment, Forest and Climate Change
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 563647022820483c
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 10
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 4/14/2019
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 26a37311cae84085
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 11
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 4/14/2019
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 84d9cedc5c614a0c
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 12
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 4/14/2019
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => aafd54efc8284ab4
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 13
+    [eventTitle] => Bangladesh Agricultural Investment Forum 2023
+    [eventDescription] => bangladesh agricultural investment forum 2023
+    [eventDate] => 1/1/2023
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 083c51f1236b4d5e
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 14
+    [eventTitle] => Bangladesh Agricultural Investment Forum 2023
+    [eventDescription] => bangladesh agricultural investment forum 2023
+    [eventDate] => 1/1/2023
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 194eee5e20d745c4
+)
+
+
+[2025-05-27 16:07:48]
+QUERY: INSERT INTO `events` (`eventId`, `eventTitle`, `eventDescription`, `eventDate`, `location`, `organisedBy`, `eventFeatureImage`, `eventCreatedAt`, `eventUpdatedAt`, `eventIdentify`) VALUES (:eventId, :eventTitle, :eventDescription, :eventDate, :location, :organisedBy, :eventFeatureImage, :eventCreatedAt, :eventUpdatedAt, :eventIdentify)
+BINDINGS: Array
+(
+    [eventId] => 15
+    [eventTitle] => Boshakhi Event 1431
+    [eventDescription] => boshakhi event 1431
+    [eventDate] => 4/14/2024
+    [location] => UN Office, Banani, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 
+    [eventCreatedAt] => 
+    [eventUpdatedAt] => 
+    [eventIdentify] => 9bdbfa12c0bf4dc3
+)
+
+
+[2025-05-27 16:07:52]
+QUERY: DELETE FROM `events` WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => OJhDc6NXWqJOx2ZK
+)
+
+
+[2025-05-28 01:17:57]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => d2b4cd041481488d
+    [eventTitle] => 12th BI-Annual Meeting of the Committee of Senior Officials (CSO)
+    [eventDescription] => 12th bi-annual meeting of the committee of senior officials (cso)
+    [eventDate] => 2025-05-28T07:20
+    [location] => Hotel Royal Tulip, Cox&#39;s Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 172864a4d41c853b9b6967b6.jpg
+)
+
+
+[2025-05-28 01:19:03]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => 371f99030df24a9b
+    [eventTitle] => Visit Bangladesh 2022
+    [eventDescription] => visit bangladesh 2022
+    [eventDate] => 2025-05-28T07:18
+    [location] => Dhaka to Cox&#39;s Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => f79a37fb14ddf6b7081b7597.jpg
+)
+
+
+[2025-05-28 01:19:53]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => a46131aad0aa42f3
+    [eventTitle] => Visit Bangladesh 2022
+    [eventDescription] => visit bangladesh 2022
+    [eventDate] => 2025-05-28T07:19
+    [location] => Dhaka to Cox&#39;s Bazar
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => ffe7cca130a3aedb820a5b04.jpg
+)
+
+
+[2025-05-28 01:20:41]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => d5c171ec2faf4ca7
+    [eventTitle] => 22nd Meeting of the IORA Council of Ministers (COM) &#38; 24th Meeting of the IORA Committee of Senior Officials (CSO)
+    [eventDescription] => 22nd meeting of the iora council of ministers (com) &#38; 24th meeting of the iora committee of senior officials (cso)
+    [eventDate] => 2025-05-28T07:20
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 25491af05c2bd0eaed435d2c.jpg
+)
+
+
+[2025-05-28 01:22:28]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => 757e407fb7e54039
+    [eventTitle] => Ninth Intergovernmental Session of the IOC Regional Committee for the Central Indian Ocean (IOCINDIO-IX)
+    [eventDescription] => ninth intergovernmental session of the ioc regional committee for the central indian ocean (iocindio-ix)
+    [eventDate] => 2025-05-29T07:22
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => c1cd7bff1f7c4e3cbf559ac4.jpg
+)
+
+
+[2025-05-28 01:23:39]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => 5d4077ebf7b04271
+    [eventTitle] => Committee of Senior Officials (CSO) IORA Meeting
+    [eventDescription] => committee of senior officials (cso) iora meeting
+    [eventDate] => 2025-05-29T07:23
+    [location] => Hotel Grand Sylhet, Sylhet
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 148af3ee7a5d4bee40c6f838.jpg
+)
+
+
+[2025-05-28 01:25:25]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => 26a37311cae84085
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 2025-05-28T07:25
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 37fdb850d53c487ec5713035.jpg
+)
+
+
+[2025-05-28 01:26:33]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => 84d9cedc5c614a0c
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 2025-05-28T07:26
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => b1d7d3069859f2221af39fdf.jpg
+)
+
+
+[2025-05-28 01:27:27]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => aafd54efc8284ab4
+    [eventTitle] => Poila Boishakh 1426
+    [eventDescription] => poila boishakh 1426
+    [eventDate] => 2025-05-28T07:27
+    [location] => Padma, Baily Road
+    [organisedBy] => Ministry of Foreign Affairs
+    [eventFeatureImage] => 1bfc6220ef6d0f90550931e3.jpg
+)
+
+
+[2025-05-28 01:30:08]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => e14a2b8bc81841b2
+    [eventTitle] => Palm Leaf Scroll Painting Revival Exhibition
+    [eventDescription] => palm leaf scroll painting revival exhibition
+    [eventDate] => 2025-05-29T07:30
+    [location] => Bangladesh National Museum
+    [organisedBy] => Shaheed Colonel Jamil Foundation
+    [eventFeatureImage] => 39798b16de1ac7a89a999568.jpg
+)
+
+
+[2025-05-28 01:30:21]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => 563647022820483c
+    [eventTitle] => CICA Workshop On Ecosystem Restoration in the context of climate and other Vulnerability
+    [eventDescription] => cica workshop on ecosystem restoration in the context of climate and other vulnerability
+    [eventDate] => 2025-05-31T07:30
+    [location] => Department of Environment, Agargaon, Dhaka
+    [organisedBy] => Ministry of Environment, Forest and Climate Change
+    [eventFeatureImage] => 7ec2a20fd5a8efa27a6ba607.mp4
+)
+
+
+[2025-05-28 01:31:54]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => 083c51f1236b4d5e
+    [eventTitle] => Bangladesh Agricultural Investment Forum 2023
+    [eventDescription] => bangladesh agricultural investment forum 2023
+    [eventDate] => 2025-05-31T07:31
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 2399bf3467cad554425f15c3.mp4
+)
+
+
+[2025-05-28 01:32:09]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => 194eee5e20d745c4
+    [eventTitle] => Bangladesh Agricultural Investment Forum 2023
+    [eventDescription] => bangladesh agricultural investment forum 2023
+    [eventDate] => 2025-05-31T07:32
+    [location] => Hotel InterContinental, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 9d5b60825ef1a2fa90e1a8c8.mp4
+)
+
+
+[2025-05-28 01:32:23]
+QUERY: UPDATE `events` SET `eventTitle` = :eventTitle, `eventDescription` = :eventDescription, `eventDate` = :eventDate, `location` = :location, `organisedBy` = :organisedBy, `eventFeatureImage` = :eventFeatureImage WHERE `eventIdentify` = :eventIdentify_0
+BINDINGS: Array
+(
+    [eventIdentify_0] => 9bdbfa12c0bf4dc3
+    [eventTitle] => Boshakhi Event 1431
+    [eventDescription] => boshakhi event 1431
+    [eventDate] => 2025-05-31T07:32
+    [location] => UN Office, Banani, Dhaka
+    [organisedBy] => Food Agricultural Organization (FAO)
+    [eventFeatureImage] => 51e2ddad4e2d457c0bb3ddd0.mp4
+)
+
+
+[2025-05-28 01:34:13]
+QUERY: UPDATE `campaign` SET `campaignTitle` = :campaignTitle, `campaignSlogan` = :campaignSlogan, `campaignAction` = :campaignAction WHERE `campaignIdentify` = :campaignIdentify_0
+BINDINGS: Array
+(
+    [campaignIdentify_0] => seA7IAAcv3yW0dTf
+    [campaignTitle] =>  Experience the Power of Events
+    [campaignSlogan] => Crafting unforgettable moments with creativity and innovation.
+    [campaignAction] => https://rethinkevents.com.bd/contact-us/
+)
+
+
+[2025-05-28 02:22:41]
+QUERY: INSERT INTO `galleries` (`caption`, `eventId`, `galleryIdentify`, `galleryMedia`) VALUES (:caption, :eventId, :galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [caption] => abc
+    [eventId] => 2
+    [galleryIdentify] => QZCFFSbMow1gmSoL
+    [galleryMedia] => 8f85a4983fdd9e34e9618d1a.jpg
+)
+
+
+[2025-05-28 02:27:00]
+QUERY: INSERT INTO `galleries` (`caption`, `eventId`, `galleryIdentify`, `galleryMedia`) VALUES (:caption, :eventId, :galleryIdentify, :galleryMedia)
+BINDINGS: Array
+(
+    [caption] => 
+    [eventId] => 2
+    [galleryIdentify] => LyfuBcQT4VyTGeE7
+    [galleryMedia] => 5bb0d202ed72460be92263bd.jpg
+)
+
+

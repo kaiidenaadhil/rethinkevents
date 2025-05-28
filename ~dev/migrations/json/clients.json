@@ -1,0 +1,12 @@
+{
+    "clientId": "integer|primary_key|auto_increment",
+    "clientName": "string|max:250|nullable",
+    "clientEmail": "string|max:250|nullable",
+    "clientMobile": "string|max:20|nullable",
+    "clientAddress": "string|max:1000|nullable",
+    "clientImage": "file|file:jpg,png|nullable",
+    "clientReference": "string|max:500|nullable",
+    "clientCreatedAt": "timestamp",
+    "clientUpdatedAt": "timestamp",
+    "clientIdentify": "string|max:50"
+}

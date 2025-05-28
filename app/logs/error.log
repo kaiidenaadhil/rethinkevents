@@ -1,0 +1,35 @@
+[2025-05-28 02:14:27] [ERROR] Attempt to read property "eventId" on array
+[2025-05-28 02:14:27] [ERROR] File: C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\controllers\EventController.php Line: 17
+[2025-05-28 02:14:27] [ERROR] Trace: #0 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\controllers\EventController.php(17): App->handleError(2, 'Attempt to read...', 'C:\\Users\\mdaha\\...', 17)
+#1 [internal function]: EventController->show(Object(Request), 'd2b4cd041481488...')
+#2 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\Router.php(176): ReflectionMethod->invokeArgs(Object(EventController), Array)
+#3 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\Router.php(107): Router->invokeControllerMethod(Object(EventController), 'show', Array)
+#4 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\Router.php(128): Router->{closure}(Object(Request))
+#5 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\App.php(57): Router->resolve()
+#6 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\public\index.php(24): App->run()
+#7 {main}
+[2025-05-28 02:16:42] [ERROR] Call to undefined method EventModel::galleries()
+[2025-05-28 02:16:42] [ERROR] File: C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\controllers\EventController.php Line: 20
+[2025-05-28 02:16:42] [ERROR] Trace: #0 [internal function]: EventController->show(Object(Request), 'd2b4cd041481488...')
+#1 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\Router.php(176): ReflectionMethod->invokeArgs(Object(EventController), Array)
+#2 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\Router.php(107): Router->invokeControllerMethod(Object(EventController), 'show', Array)
+#3 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\Router.php(128): Router->{closure}(Object(Request))
+#4 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\App.php(57): Router->resolve()
+#5 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\public\index.php(24): App->run()
+#6 {main}
+[2025-05-28 03:35:20] [ERROR] Undefined array key "userRole"
+[2025-05-28 03:35:20] [ERROR] File: C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\controllers\AuthController.php Line: 14
+[2025-05-28 03:35:20] [ERROR] Trace: #0 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\controllers\AuthController.php(14): App->handleError(2, 'Undefined array...', 'C:\\Users\\mdaha\\...', 14)
+#1 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\Router.php(106): AuthController->__construct()
+#2 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\Router.php(128): Router->{closure}(Object(Request))
+#3 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\App.php(57): Router->resolve()
+#4 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\public\index.php(24): App->run()
+#5 {main}
+[2025-05-28 03:50:50] [ERROR] Method GalleryController::index() does not exist
+[2025-05-28 03:50:50] [ERROR] File: C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\Router.php Line: 153
+[2025-05-28 03:50:50] [ERROR] Trace: #0 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\Router.php(153): ReflectionMethod->__construct(Object(GalleryController), 'index')
+#1 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\Router.php(107): Router->invokeControllerMethod(Object(GalleryController), 'index', Array)
+#2 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\Router.php(128): Router->{closure}(Object(Request))
+#3 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\app\core\App.php(57): Router->resolve()
+#4 C:\Users\mdaha\OneDrive\Desktop\rethinkevents\public\index.php(24): App->run()
+#5 {main}

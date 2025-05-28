@@ -1,0 +1,13 @@
+{
+    "projectId": "integer|primary_key|auto_increment",
+    "userId": "integer|foreign:users:userId",
+    "projectName": "string|max:255|nullable",
+    "projectType": "string|max:255|nullable",
+    "status": "enum:new,in_progress,completed,on_hold",
+    "budget": "decimal:12,2|nullable",
+    "progress": "integer|max:100|nullable",
+    "deadline": "timestamp|nullable",
+    "projectCreatedAt": "timestamp",
+    "projectUpdatedAt": "timestamp",
+    "projectIdentify": "string|max:50"
+}

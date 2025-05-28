@@ -1,0 +1,8 @@
+{
+    "settingId": "integer|primary_key|auto_increment",
+    "settingKey": "string|max:250|nullable",
+    "settingValue": "string|max:250|nullable",
+    "settingCreatedAt": "timestamp",
+    "settingUpdatedAt": "timestamp",
+    "settingIdentify": "string|max:50"
+}

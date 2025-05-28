@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 138.9 63.99">
+  <defs>
+    <style>
+      /* Typing animation for subheading with stock effect */
+      @keyframes typingEffect {
+        0% { stroke-dasharray: 0, 100; }
+        100% { stroke-dasharray: 100, 0; }
+      }
+
+      /* Typing effect for subheading */
+      .subheading {
+        font-size: 10px; /* Font size for subheading */
+        font-family: Arial, sans-serif;
+        fill: none; /* Remove fill to make the stroke visible */
+        stroke: #ffffff; /* White stroke color */
+        stroke-width: 0.5; /* Stroke thickness */
+        stroke-dasharray: 0, 100; /* Starting with no visible text */
+        animation: typingEffect 3s steps(30) infinite; /* Steps match number of characters */
+        white-space: nowrap;
+      }
+
+      /* Fill animation for main text */
+      .cls-1 {
+        font-size: 46.65px;
+        font-family: MyriadHebrew-Regular, Myriad Hebrew;
+        fill:rgb(211, 216, 220);
+        overflow: hidden;
+        white-space: nowrap;
+        animation: typing 4s steps(10) infinite;
+      }
+
+      /* Animation for fill effect */
+      .cls-2 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-3 {
+        fill: transparent;
+        animation: fillAnimation 3s ease-in-out infinite;
+      }
+
+      @keyframes fillAnimation {
+        0%, 100% { fill: transparent; }
+        20% { fill: #febf33; }
+        80% { fill: #febf33; }
+      }
+
+      .leaf-1 { animation-delay: 0.5s; }
+      .leaf-2 { animation-delay: 1s; }
+      .leaf-3 { animation-delay: 1.5s; }
+      .leaf-4 { animation-delay: 2s; }
+      .leaf-5 { animation-delay: 2.5s; }
+
+      svg:hover .cls-1 {
+        fill: #E65B43 !important;
+      }
+    </style>
+  </defs>
+
+  <!-- Main text -->
+  <text class="cls-1" transform="translate(0 48.83)">
+    <tspan class="cls-2">r</tspan><tspan x="14.79" y="0">ethink</tspan>
+  </text>
+
+  <path class="cls-3 leaf-1" d="M89,22.5s-7.9-7.4,0-15.3C89,7.2,96.7,13.9,89,22.5Z" transform="translate(-4.18 -7.2)"/>
+  <path class="cls-3 leaf-2" d="M85.2,23.3s-10.8.5-11-10.6C74.2,12.7,84.3,11.8,85.2,23.3Z" transform="translate(-4.18 -7.2)"/>
+  <path class="cls-3 leaf-3" d="M84.2,26.5s-7.2,8-15.3.4C69,26.9,75.4,19,84.2,26.5Z" transform="translate(-4.18 -7.2)"/>
+  <path class="cls-3 leaf-4" d="M92.3,23.5S92,12.7,103.1,12.7C103.1,12.7,103.8,22.9,92.3,23.5Z" transform="translate(-4.18 -7.2)"/>
+  <path class="cls-3 leaf-5" d="M93.7,26.6s7.4-7.9,15.3,0C108.9,26.6,102.3,34.3,93.7,26.6Z" transform="translate(-4.18 -7.2)"/>
+
+  <!-- Typing effect on subheading with stock animation -->
+  <text x="0" y="63" class="subheading">
+    event &gt; interior &gt; graphics-print
+  </text>
+</svg>

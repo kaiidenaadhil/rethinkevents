@@ -1,0 +1,8 @@
+{
+    "categoryId": "integer|primary_key|auto_increment",
+    "categoryName": "string|max:250|nullable",
+    "categoryDescription": "string|max:250|nullable",
+    "service_categoryCreatedAt": "timestamp",
+    "service_categoryUpdatedAt": "timestamp",
+    "service_categoryIdentify": "string|max:50"
+}

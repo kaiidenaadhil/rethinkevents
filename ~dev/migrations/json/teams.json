@@ -1,0 +1,12 @@
+{
+    "teamId": "integer|primary_key|auto_increment",
+    "memberName": "string|max:250|nullable",
+    "designation": "string|max:250|nullable",
+    "email": "string|max:250|nullable",
+    "mobile": "string|max:250|nullable",
+    "profileImage": "file|file:jpg,png|nullable",
+    "bio": "string|max:500|nullable",
+    "teamCreatedAt": "timestamp",
+    "teamUpdatedAt": "timestamp",
+    "teamIdentify": "string|max:50"
+}

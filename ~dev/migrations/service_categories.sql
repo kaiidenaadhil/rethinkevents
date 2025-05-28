@@ -1,0 +1,8 @@
+CREATE TABLE `service_categories` (
+`categoryId` INT  PRIMARY KEY NOT NULL AUTO_INCREMENT,
+`categoryName` VARCHAR(250)  NULL,
+`categoryDescription` VARCHAR(250)  NULL,
+`service_categoryCreatedAt` TIMESTAMP  NOT NULL DEFAULT CURRENT_TIMESTAMP,
+`service_categoryUpdatedAt` TIMESTAMP  NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+`service_categoryIdentify` VARCHAR(50)  NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
