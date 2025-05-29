@@ -1877,3 +1877,17 @@ BINDINGS: Array
 )
 
 
+[2025-05-28 21:28:47]
+QUERY: INSERT INTO `leads` (`clientName`, `email`, `phone`, `notes`, `interestedIn`, `status`, `leadIdentify`) VALUES (:clientName, :email, :phone, :notes, :interestedIn, :status, :leadIdentify)
+BINDINGS: Array
+(
+    [clientName] => AAA
+    [email] => info@rethinkevents.com.bd
+    [phone] => 01521257123
+    [notes] => 
+    [interestedIn] => Printing
+    [status] =>  contacted
+    [leadIdentify] => Oh3hM7p5uoqqN8DW
+)
+
+

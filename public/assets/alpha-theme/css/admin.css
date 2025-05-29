@@ -1422,3 +1422,19 @@ margin-top: 10px;
   border-radius: 4px;
   cursor: pointer;
 }
+
+
+  .user-avatar-fallback {
+  width: 40px;
+  height: 40px;
+  background-color: var(--primary);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  box-shadow: var(--shadow);
+}

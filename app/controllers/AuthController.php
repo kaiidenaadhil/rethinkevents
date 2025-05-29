@@ -281,15 +281,33 @@ class AuthController extends Controller
         $authModel->updatePassword($decodedToken->userId, password_hash($data['newPassword'], PASSWORD_BCRYPT));
         return "Password updated successfully.";
     }
-
-    public function dashboard()
-    {
-        if (isset($_SESSION['userAltName'])) {
-
-            return $this->adminView('auth/dashboard', $params = []); // Success Page
-        } else {
-            header("Location: " . ROOT);
-            exit();
-        }
+public function dashboard()
+{
+    if (!isset($_SESSION['userAltName'])) {
+        header("Location: " . ROOT);
+        exit();
     }
+
+    $userModel    = $this->model('UserModel'); // generic base model
+    $user         = $userModel->where('userAltName', $_SESSION['userAltName'])->first();
+
+    $eventModel   = $this->model('EventModel');
+    $clientModel  = $this->model('ClientModel');
+    $galleryModel = $this->model('GalleryModel');
+    $leadModel    = $this->model('LeadModel');
+
+    $totals = [
+        'events'    => $eventModel->count(),
+        'clients'   => $clientModel->count(),
+        'galleries' => $galleryModel->count(),
+        'leads'     => $leadModel->count()
+    ];
+
+    return $this->adminView('auth/dashboard', [
+        'user'   => $user,
+        'totals' => $totals
+    ]);
+}
+
+
 }
